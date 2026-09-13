@@ -1,0 +1,5 @@
+node_modules/
+.next/
+contracts/lib/
+contracts/.env
+frontend/.env.local
